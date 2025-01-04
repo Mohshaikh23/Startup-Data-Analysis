@@ -58,18 +58,6 @@ The project leverages advanced metrics and KPIs to provide a detailed understand
 
 ---
 
-## **Project Structure**
-
-```
-├── data/                    # Dataset and processed data
-├── notebooks/               # Jupyter Notebooks with detailed analysis
-├── visualizations/          # Generated plots and dashboards
-├── README.md                # Project documentation (this file)
-└── analysis_modules.py      # Scripts for metrics computation
-```
-
----
-
 ## **How to Use**
 
 ### **1. Clone the Repository**
