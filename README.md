@@ -77,7 +77,7 @@ pip install -r requirements.txt
 Navigate to the `notebooks/` directory and explore detailed analyses for each module.
 
 ```bash
-jupyter notebook
+streamlit run app.py
 ```
 
 ### **4. Explore Visualizations**
